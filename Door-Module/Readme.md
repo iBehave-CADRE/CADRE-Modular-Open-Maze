@@ -3,24 +3,34 @@
   <img src="./images/Door-Module.png" width="800">
 </p>
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
 
+
+We can add three dashes (center aligned): | --- |
+Center align with two dashes: | :---: |
+Left align with two dashes: | :--- |
+Right align with two dashes: | ---: |
 
 
 Parts List
 Table 
-Arduino Nano
+Arduino Nano https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us
 Screws
-Acrylic
+Acrylic 6mm any color
 Aluminum Rails
 Rail Nuts
-Whadda Servo
+Whadda Servo MG995 https://whadda.com/product/servo-mg995-wpm603/
 Jumper Cables
 Office Clamp
-BNC Plugs
+BNC Plugs (with unterlagscheiben und muttern) https://www.digikey.de/de/products/detail/amphenol-rf/31-221-RFX/100648
+Sprayable Food Grease http://www.crceurope.com/crc/CRCproductdetail.csp?division=industry&product=FG FOOD GREASE
 
 
+Schrauben M4 M3 M6 mit unterlagsscheiben und muttern
 
-
+Connection or Wire Diagram
 
 Printer Settings
 Device
