@@ -14,7 +14,7 @@
 | Whadda Servo MG995 | 1 piece | with mounting hardware | [whadda.com](https://whadda.com/product/servo-mg995-wpm603/) |
 | BNC Connector | 3 pieces | with mounting hardware | [digikey.com](https://www.digikey.de/de/products/detail/amphenol-rf/31-221-RFX/100648) |
 | Aluminum Profile 30x30 mm | 2 pieces of e.g. 500 mm | [us.rs-online.com](https://us.rs-online.com/product/bosch-rexroth-assembly-technology/3842990720-1000mm/73548689/) |
-| CRC Food Grease | 1 spray can | anti-friction | [crceurope.com](http://www.crceurope.com/crc/CRCproductdetail.csp?division=industry&product=FG FOOD GREASE) |
+| CRC Food Grease | 1 spray can | anti-friction | [crceurope.com](http://www.crceurope.com/crc/CRCproductdetail.csp?division=industry&product=FG) |
 | USB-A to USB Mini-B Cable | 1 piece | power delivery | [digikey.com](https://www.digikey.de/en/products/detail/qualtek/3021003-03/1531289) |
 |  |  |  |
 |  |  |  |
