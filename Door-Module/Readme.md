@@ -12,7 +12,7 @@
 | :---: | :---: | :---: | :---: |
 | Arduino Nano | 1 piece | with pin headers | [arduino.cc](https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us) |
 | Whadda Servo MG995 | 1 piece | with mounting hardware | [whadda.com](https://whadda.com/product/servo-mg995-wpm603/) |
-|  |  |  |
+| BNC Connector | 3 pieces | with mounting hardware | [digikey.com](https://www.digikey.de/de/products/detail/amphenol-rf/31-221-RFX/100648) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -48,9 +48,10 @@ Aluminum Rails
 Rail Nuts
 Jumper Cables
 Office Clamp
-BNC Plugs (with unterlagscheiben und muttern) https://www.digikey.de/de/products/detail/amphenol-rf/31-221-RFX/100648
+BNC Plugs (with unterlagscheiben und muttern) 
 Sprayable Food Grease http://www.crceurope.com/crc/CRCproductdetail.csp?division=industry&product=FG FOOD GREASE
 USB Cable
+schrumpfschlauch
 
 Schrauben M4 M3 M6 mit unterlagsscheiben und muttern
 
