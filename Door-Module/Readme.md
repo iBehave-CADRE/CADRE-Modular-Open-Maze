@@ -8,10 +8,10 @@
 
 ### Parts List
 
-| Item | Quantity | Product Link |
-| :---: | :---: | :---: |
-| Arduino Nano | 1 piece | [arduino.cc](https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us) |
-| Whadda Servo MG995 with mounting hardware | 1 piece | [whadda.com](https://whadda.com/product/servo-mg995-wpm603/) |
+| Item | Quantity |  | Product Link |
+| :---: | :---: | :---: | :---: |
+| Arduino Nano | 1 piece | with pin headers | [arduino.cc](https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us) |
+| Whadda Servo MG995 | 1 piece | with mounting hardware | [whadda.com](https://whadda.com/product/servo-mg995-wpm603/) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
