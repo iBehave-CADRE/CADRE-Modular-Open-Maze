@@ -3,9 +3,16 @@
   <img src="./images/Door-Module.png" width="800">
 </p>
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+
+
+
+### Parts List
+
+| Item | Quantity | Product Link |
+| :---: | :---: | :---: |
+| Arduino NANO | 1 piece | [arduino.cc](https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us) |
+
+
 
 
 We can add three dashes (center aligned): | --- |
