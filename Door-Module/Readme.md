@@ -18,7 +18,7 @@
 | USB-A to USB Mini-B Cable | 1 piece | power delivery | [digikey.com](https://www.digikey.de/en/products/detail/qualtek/3021003-03/1531289) |
 | Screw M6 x  | 6 pieces |  |
 | Washer M6 | 6 pieces |  |
-| Low-Profile T-Nut M6 | 4 pieces | [thorlabs.com](https://www.thorlabs.de/thorproduct.cfm?partnumber=XE25T3/M) |
+| Low-Profile T-Nut M6 | 4 pieces |  | [thorlabs.com](https://www.thorlabs.de/thorproduct.cfm?partnumber=XE25T3/M) |
 | Screw M4 x | 4 pieces |  |  |
 | Washer M4 | 4 pieces |  |  |
 | Nut M4 | 4 pieces |  |  |
@@ -32,13 +32,11 @@
 
 
 
-
 Lasercutting
 --------------------
 Lasercutter Settings
 Device
 Acrylic 6mm any color
-
 
 
 3D Printing
