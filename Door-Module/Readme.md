@@ -29,7 +29,7 @@
 | Jumper Cables |  |  |  |
 | Foldback Clip 19 mm | 1 piece |  |  |
 
-
+All files are in mm not inches! Metric system
 
 
 Lasercutting
