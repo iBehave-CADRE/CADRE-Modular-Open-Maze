@@ -31,6 +31,7 @@
 
 All files are in mm not inches! Metric system
 
+Specific Design for 30x30 Aluminum Profile. If smaller profiles, design must be adapted...
 
 Lasercutting
 --------------------
