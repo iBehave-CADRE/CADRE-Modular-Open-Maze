@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Counterweight v4.step',
-/* time_stamp */ '2024-06-12T14:37:54+02:00',
+/* name */ 'Counterweight.step',
+/* time_stamp */ '2024-07-11T16:17:54+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -377,16 +377,16 @@ SOLID_ANGLE_UNIT()
 #325=PRODUCT_DEFINITION_SHAPE('',$,#328);
 #326=SHAPE_REPRESENTATION('',(#208),#318);
 #327=PRODUCT_DEFINITION_CONTEXT('part definition',#332,'design');
-#328=PRODUCT_DEFINITION('Counterweight','Counterweight v4',#329,#327);
+#328=PRODUCT_DEFINITION('Counterweight','Counterweight v8',#329,#327);
 #329=PRODUCT_DEFINITION_FORMATION('',$,#334);
-#330=PRODUCT_RELATED_PRODUCT_CATEGORY('Counterweight v4',
-'Counterweight v4',(#334));
+#330=PRODUCT_RELATED_PRODUCT_CATEGORY('Counterweight v8',
+'Counterweight v8',(#334));
 #331=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#332);
 #332=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #333=PRODUCT_CONTEXT('part definition',#332,'mechanical');
-#334=PRODUCT('Counterweight','Counterweight v4',$,(#333));
+#334=PRODUCT('Counterweight','Counterweight v8',$,(#333));
 #335=PRESENTATION_STYLE_ASSIGNMENT((#337));
 #336=PRESENTATION_STYLE_ASSIGNMENT((#338));
 #337=SURFACE_STYLE_USAGE(.BOTH.,#339);
