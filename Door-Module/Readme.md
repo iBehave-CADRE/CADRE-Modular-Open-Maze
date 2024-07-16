@@ -1,7 +1,7 @@
 # Door-Module
 <p align="center">
-  <img src="./images/Door-Module_L.png" width="800">
-  <img src="./images/Door-Module_R.png" width="800">
+  <img src="./images/Door-Module_L.png" width="400">
+  <img src="./images/Door-Module_R.png" width="400">
 </p>
 
 
