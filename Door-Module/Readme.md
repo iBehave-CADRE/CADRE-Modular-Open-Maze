@@ -22,7 +22,6 @@
 | Screw M3 x 16 mm | 8 pieces |  |  |
 | Washer M3 | 8 pieces |  |  |
 | Nut M3 | 8 pieces |  |  |
-
 | Shrinktube 1.6 - 0.5 mm 3:1 shrinkratio | 20 cm |  | [conrad.de](https://www.conrad.de/de/p/dsg-canusa-8640015953-schrumpfschlauch-ohne-kleber-schwarz-1-60-mm-0-80-mm-schrumpfrate-3-1-10-m-708870.html) |
 | Jumper Cables | 7 pieces |  | [conrad.de](https://www.conrad.de/de/p/renkforce-jkmf403-jumper-kabel-arduino-banana-pi-raspberry-pi-40x-drahtbruecken-stecker-40x-drahtbruecken-buchse-30-2299844.html) |
 | Foldback Clip 19 mm | 1 piece | for fixing counterweights | [conrad.de](https://www.conrad.de/de/p/rapesco-foldback-klammern-breite-19-mm-schwarz-65800180-804794934.html) |
