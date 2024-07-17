@@ -4,7 +4,9 @@
   <img src="./images/Door-Module_R.png" width="400">
 </p>
 
-
+<p align="center">
+  <img src="./images/Door-Module.gif" width="400">
+</p>
 
 
 ### Parts List
