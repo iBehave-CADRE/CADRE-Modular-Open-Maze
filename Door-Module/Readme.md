@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/Door-Module.gif" width="400">
+  <img src="./images/Door-Module.gif" width="800">
 </p>
 
 
