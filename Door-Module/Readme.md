@@ -88,4 +88,4 @@ Input detection is via digital input and internal pullup resistor. Consequently,
 | BNC In Signal | Door Status | BNC Sync 1 Status | BNC Sync 2 Status |
 | :---: | :---: | :---: | :---: |
 | 5V (High) input | Closed (Up) | 5V output | 5V output |
-| 0V (Low) input | Down (Up) | 0V output | 0V output |
+| 0V (Low) input | Open (Down) | 0V output | 0V output |
