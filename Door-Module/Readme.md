@@ -23,15 +23,7 @@ All provided files are in metric units (mm). The design is adapted to generic 30
 | Profile Stopper | 2 pieces |
 | Servo Lever | 1 piece |
 
-All files are available in the following format:
-
-.STEP (for 3D CAD)
-
-.DXF Files (scaling: 1pt equals 1mm for laser cutting)
-
-.STL (3D Object for Printing)
-
-.SVG (Open Source Vector Graphic)
+All files are available as .STEP (for 3D CAD), .DXF Files (scaling: 1pt equals 1mm for laser cutting), .STL (3D Object for Printing) and .SVG (Open Source Vector Graphic).
 
 
 ### Commercial Parts List
