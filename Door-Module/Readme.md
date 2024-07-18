@@ -12,16 +12,16 @@ All provided files are in metric units (mm). The design is adapted to generic 30
 
 ### File List
 
-| Door-Module Component | Production Amount |
-| :---: | :---: |
-| Arduino Holder | 1 piece |
-| Counterweight | 4 pieces |
-| Door Panel | 1 piece |
-| Electronics Panel | 1 piece |
-| Floor Rest | 2 pieces |
-| Mock Floor | 1 piece, optional |
-| Profile Stopper | 2 pieces |
-| Servo Lever | 1 piece |
+| Door-Module Component | Production Amount | Material |
+| :---: | :---: | :---: |
+| Arduino Holder | 1 piece | Acrylic glass 6mm, PLA or ABS |
+| Counterweight | 4 pieces | Acrylic glass 6mm, PLA or ABS |
+| Door Panel | 1 piece | Acrylic glass 6mm, PLA or ABS |
+| Electronics Panel | 1 piece | Acrylic glass 6mm, PLA or ABS |
+| Floor Rest | 2 pieces | Acrylic glass 6mm, PLA or ABS |
+| Mock Floor | 1 piece, optional | Acrylic glass 6mm, PLA or ABS |
+| Profile Stopper | 2 pieces | Acrylic glass 6mm, PLA or ABS |
+| Servo Lever | 1 piece | Acrylic glass 6mm, PLA or ABS |
 
 All files are available as .STEP (for 3D CAD), .DXF Files (scaling: 1pt equals 1mm for laser cutting), .STL (3D Object for Printing) and .SVG (Open Source Vector Graphic).
 
@@ -50,10 +50,19 @@ All files are available as .STEP (for 3D CAD), .DXF Files (scaling: 1pt equals 1
 
 Lasercutting
 --------------------
-Lasercutter Settings for engraving also of the holder...
-Device
-Acrylic 6mm any color
 
+We used a Trotec Speedy Flex lasercutter with a 100W CO2 laser with the following settings:
+
+| Parameter | Cutting Quality | Engraving Quality (Arduino Holder) |
+| :---: | :---: | :---: |
+| Power | 70 % | 70 % |
+| Speed | 0.2 % | 3.5 % |
+| Laser Source | CO2 | CO2 |
+| Frequency | 20'000 Hz | 1'000 Hz |
+| Passes | 1 | 1 |
+| Power Correction | 10 | 10 |
+| z-Offset | -2 | 0 |
+| Resolution | N.A. | 500 DPI |
 
 3D Printing
 --------------------
