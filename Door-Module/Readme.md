@@ -92,4 +92,4 @@ Signal In | High 5V Door Up/Closed | Low 0V GND Door Low/Open
 
 Sync 1
 
-Sync 1 | :---: |
+Sync 1 |___|⎺
