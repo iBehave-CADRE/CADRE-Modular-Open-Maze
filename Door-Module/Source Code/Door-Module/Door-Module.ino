@@ -9,7 +9,7 @@ Created 03.05.2024
 #include <Servo.h>
 #define DoorControlPin 2 //Definition of the pin that receives a TTL signal to control the door position
 #define SyncPin1 3
-#define SyncPin2 12
+#define SyncPin2 4
 #define ServoPin 9 //Definition of the pin attached to the servo
 #define DoorPosUp 5 // Definition of the door position in the upper state
 #define DoorPosDown 74 // Definition of the door position in the lower state

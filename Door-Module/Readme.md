@@ -1,4 +1,7 @@
 # Door-Module
+
+This modular door-module can be remote controlled via a digital signal (high is up, low is down) and daisy chained for group control. It can be easily integrated in open maze.
+
 <p align="center">
   <img src="./images/Door-Module_L.png" width="400">
   <img src="./images/Door-Module_R.png" width="400">
@@ -71,6 +74,8 @@ We suggest printing with PLA, tough PLA or ABS for best results. Any standard pr
 
 Wiring Diagram
 --------------------
-Connections and an image or so
+<p align="center">
+  <img src="./images/Door-Module Wiring Diagram.png" width="800">
+</p>
 
 
