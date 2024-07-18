@@ -78,4 +78,18 @@ Wiring Diagram
   <img src="./images/Door-Module Wiring Diagram.png" width="800">
 </p>
 
+Note: BNC shield is GND and inner pin for signal.
 
+Modular-Door Control Logic
+--------------------
+
+Input detection is via digital input and internal pullup resistor. Consequently, 0V (or connecting to GND) at the signal in port will open the door, while 5V will close it again. Sync ports will be set to the corresponding output current.
+
+| BNC Port | Input Signal | Engraving Quality (Arduino Holder) |
+| :---: | :---: | :---: |
+
+Signal In | High 5V Door Up/Closed | Low 0V GND Door Low/Open
+
+Sync 1
+
+Sync 1 | :---: |
