@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1106.22 57.4">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: blue;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+
+      .cls-2 {
+        stroke: red;
+      }
+    </style>
+  </defs>
+  <g id="CUTOUTS">
+    <g id="CIRCLE">
+      <circle class="cls-2" cx="589.96" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-2" data-name="CIRCLE">
+      <circle class="cls-2" cx="572.95" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-3" data-name="CIRCLE">
+      <circle class="cls-2" cx="524.76" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-4" data-name="CIRCLE">
+      <circle class="cls-2" cx="507.76" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-5" data-name="CIRCLE">
+      <circle class="cls-2" cx="516.26" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-6" data-name="CIRCLE">
+      <circle class="cls-2" cx="533.27" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-7" data-name="CIRCLE">
+      <circle class="cls-2" cx="581.46" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-8" data-name="CIRCLE">
+      <circle class="cls-2" cx="598.46" cy="28.7" r="2.83"/>
+    </g>
+    <g id="CIRCLE-9" data-name="CIRCLE">
+      <circle class="cls-2" cx="553.11" cy="28.7" r="8.5"/>
+    </g>
+  </g>
+  <g id="PERIMETER">
+    <g id="LWPOLYLINE">
+      <path class="cls-1" d="M.35,42.87h155.91c7.83,0,14.17,6.35,14.17,14.17h765.35c0-7.83,6.35-14.17,14.17-14.17h155.91V14.53h-155.91c-7.83,0-14.17-6.35-14.17-14.17H170.43c0,7.83-6.35,14.17-14.17,14.17H.35v28.35Z"/>
+    </g>
+  </g>
+</svg>

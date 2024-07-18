@@ -8,8 +8,30 @@
   <img src="./images/Door-Module.gif" width="800">
 </p>
 
+All provided files are in metric units (mm). The design is adapted to generic 30x30 Aluminum Profiles. For smaller profiles, the door panel cutout needs to be laterally shifted in order to fit the servo lever (a thinner profile would unmatch their relative orientation). The foldback clip was used to fix counterweights to the servo lever. All parts can pe either laser cut, 3D printed or hand sawed. The design aims at maximum reproduxibility with low total cost.
 
-### Parts List
+### File List
+
+| Door-Module Component | Production Amount |
+| :---: | :---: |
+| Arduino Holder | 1 piece |
+| Counterweight | 4 pieces |
+| Door Panel | 1 piece |
+| Electronics Panel | 1 piece |
+| Floor Rest | 2 pieces |
+| Mock Floor | 1 piece, optional |
+| Profile Stopper | 2 pieces |
+| Servo Lever | 1 piece |
+
+All files are available in the following format:
+
+.STEP (for 3D CAD)
+.DXF Files (scaling: 1pt equals 1mm for laser cutting)
+.STL (3D Object for Printing)
+.SVG (Open Source Vector Graphic)
+
+
+### Commercial Parts List
 
 | Item | Quantity | Notes | Product Example Link |
 | :---: | :---: | :---: | :---: |
@@ -30,11 +52,6 @@
 | Nut M3 | 8 pieces |  | [conrad.de](https://www.conrad.de/de/p/toolcraft-131880-sechskantmuttern-m3-din-934-stahl-100-st-131880.html) |
 
 
-All provided files are in metric units (mm). The design is adapted to generic 30x30 Aluminum Profiles. For smaller profiles, the door panel cutout needs to be laterally shifted in order to fit the servo lever (a thinner profile would unmatch their relative orientation). The foldback clip was used to fix counterweights to the servo lever.
-
-All parts can pe either laser cut, 3D printed or hand sawed. The design aims at maximum reproduxibility with low total cost.
-
-Technical Drawing and Assembly manual export from fusion
 
 Lasercutting
 --------------------

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215.62 170.79">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: lime;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+
+      .cls-2 {
+        stroke: blue;
+      }
+
+      .cls-3 {
+        stroke: red;
+      }
+    </style>
+  </defs>
+  <g id="CUTOUTS">
+    <g id="CIRCLE">
+      <circle class="cls-3" cx="85.39" cy="156.26" r="4.25"/>
+    </g>
+    <g id="CIRCLE-2" data-name="CIRCLE">
+      <circle class="cls-3" cx="85.39" cy="14.53" r="4.25"/>
+    </g>
+    <g id="CIRCLE-3" data-name="CIRCLE">
+      <circle class="cls-3" cx="14.53" cy="156.26" r="4.25"/>
+    </g>
+    <g id="CIRCLE-4" data-name="CIRCLE">
+      <circle class="cls-3" cx="14.53" cy="14.53" r="4.25"/>
+    </g>
+    <g id="LWPOLYLINE">
+      <rect class="cls-1" x="23.86" y="24.44" width="52.44" height="123.31"/>
+    </g>
+  </g>
+  <g id="PERIMETER">
+    <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+      <line class="cls-2" x1="38.62" y1="24.45" x2="61.3" y2="24.45"/>
+    </g>
+    <g id="LWPOLYLINE-3" data-name="LWPOLYLINE">
+      <polyline class="cls-2" points="38.62 152.01 38.62 137.83 25.87 137.83 25.87 32.95 38.62 32.95 38.62 24.45"/>
+    </g>
+    <g id="LWPOLYLINE-4" data-name="LWPOLYLINE">
+      <path class="cls-2" d="M61.3,152.01h4.25v18.43h19.84c7.83,0,14.17-6.35,14.17-14.17V14.53c0-7.83-6.35-14.17-14.17-14.17H14.53C6.7.35.35,6.7.35,14.53v141.73c0,7.83,6.35,14.17,14.17,14.17h19.84v-18.43h4.25"/>
+    </g>
+    <g id="LWPOLYLINE-5" data-name="LWPOLYLINE">
+      <polyline class="cls-2" points="61.3 24.45 61.3 32.95 74.06 32.95 74.06 137.83 61.3 137.83 61.3 152.01"/>
+    </g>
+  </g>
+</svg>

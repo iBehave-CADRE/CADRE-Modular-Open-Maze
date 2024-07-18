@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284.17 146.69">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: blue;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+
+      .cls-2 {
+        stroke: red;
+      }
+    </style>
+  </defs>
+  <g id="CUTOUTS">
+    <g id="LWPOLYLINE">
+      <rect class="cls-2" x="133.58" y="59.17" width="17.01" height="28.35"/>
+    </g>
+  </g>
+  <g id="PERIMETER">
+    <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+      <rect class="cls-1" x=".35" y=".35" width="283.46" height="145.98"/>
+    </g>
+  </g>
+</svg>

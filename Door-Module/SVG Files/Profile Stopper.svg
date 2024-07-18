@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.75 85.75">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: blue;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+
+      .cls-2 {
+        stroke: red;
+      }
+    </style>
+  </defs>
+  <g id="CUTOUTS">
+    <g id="CIRCLE">
+      <circle class="cls-2" cx="42.87" cy="42.87" r="8.5"/>
+    </g>
+  </g>
+  <g id="PERIMETER">
+    <g id="LWPOLYLINE">
+      <polygon class="cls-1" points="31.54 .35 .35 .35 .35 85.39 85.39 85.39 85.39 .35 54.21 .35 54.21 25.87 31.54 25.87 31.54 .35"/>
+    </g>
+  </g>
+</svg>
