@@ -85,11 +85,7 @@ Modular-Door Control Logic
 
 Input detection is via digital input and internal pullup resistor. Consequently, 0V (or connecting to GND) at the signal in port will open the door, while 5V will close it again. Sync ports will be set to the corresponding output current.
 
-| BNC Port | Input Signal | Engraving Quality (Arduino Holder) |
-| :---: | :---: | :---: |
-
-Signal In | High 5V Door Up/Closed | Low 0V GND Door Low/Open
-
-Sync 1
-
-Sync 1 |___|⎺
+| BNC In Signal | Door Status | BNC Sync 1 Status | BNC Sync 2 Status |
+| :---: | :---: | :---: | :---: |
+| 5V (High) input | Closed (Up) | 5V output | 5V output |
+| 0V (Low) input | Down (Up) | 0V output | 0V output |
