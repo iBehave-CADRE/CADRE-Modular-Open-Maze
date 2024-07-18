@@ -66,9 +66,7 @@ We used a Trotec Speedy Flex lasercutter with a 100W CO2 laser with the followin
 
 3D Printing
 --------------------
-Printer Settings
-Device
-Or 3d printing material
+We suggest printing with PLA, tough PLA or ABS for best results. Any standard print settings will provide aceptable results. Avoid fancy materials to reduce cost and effort.
 
 
 Wiring Diagram
