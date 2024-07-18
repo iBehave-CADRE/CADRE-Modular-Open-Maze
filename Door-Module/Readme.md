@@ -26,8 +26,11 @@ All provided files are in metric units (mm). The design is adapted to generic 30
 All files are available in the following format:
 
 .STEP (for 3D CAD)
+
 .DXF Files (scaling: 1pt equals 1mm for laser cutting)
+
 .STL (3D Object for Printing)
+
 .SVG (Open Source Vector Graphic)
 
 
