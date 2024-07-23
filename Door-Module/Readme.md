@@ -15,6 +15,8 @@ All provided files are in metric units (mm). The design is adapted to generic 30
 
 ### File List
 
+<center>
+
 | Door-Module Component | Production Amount | Material |
 | :---: | :---: | :---: |
 | Arduino Holder | 1 piece | Acrylic glass 6mm, PLA or ABS |
@@ -26,10 +28,14 @@ All provided files are in metric units (mm). The design is adapted to generic 30
 | Profile Stopper | 2 pieces | Acrylic glass 6mm, PLA or ABS |
 | Servo Lever | 1 piece | Acrylic glass 6mm, PLA or ABS |
 
+</center>
+
 All files are available as .STEP (for 3D CAD), .DXF Files (scaling: 1pt equals 1mm for laser cutting), .STL (3D Object for Printing) and .SVG (Open Source Vector Graphic).
 
 
 ### Commercial Parts List
+
+<center>
 
 | Item | Quantity | Notes | Product Example Link |
 | :---: | :---: | :---: | :---: |
@@ -50,12 +56,17 @@ All files are available as .STEP (for 3D CAD), .DXF Files (scaling: 1pt equals 1
 | Washer M3 | 8 pieces |  | [conrad.de](https://www.conrad.de/de/p/rs-pro-unterlegscheiben-fuer-m3-schrauben-glatt-a2-304-flach-0-5mm-x-3-2mm-x-7mm-edelstahl-packung-a-250-stueck-805559965.html) |
 | Nut M3 | 8 pieces |  | [conrad.de](https://www.conrad.de/de/p/toolcraft-131880-sechskantmuttern-m3-din-934-stahl-100-st-131880.html) |
 
+</center>
+
+
 
 
 Lasercutting
 --------------------
 
 We used a Trotec Speedy Flex lasercutter with a 100W CO2 laser with the following settings:
+
+<center>
 
 | Parameter | Cutting Quality | Engraving Quality (Arduino Holder) |
 | :---: | :---: | :---: |
@@ -67,6 +78,10 @@ We used a Trotec Speedy Flex lasercutter with a 100W CO2 laser with the followin
 | Power Correction | 10 | 10 |
 | z-Offset | -2 | 0 |
 | Resolution | N.A. | 500 DPI |
+
+</center>
+
+
 
 3D Printing
 --------------------
@@ -86,7 +101,13 @@ Modular-Door Control Logic
 
 Input detection is via digital input and internal pullup resistor. Consequently, 0V (or connecting to GND) at the signal in port will open the door, while 5V will close it again. Sync ports will be set to the corresponding output current.
 
+<center>
+
 | BNC In Signal | Door Status | BNC Sync 1 Status | BNC Sync 2 Status |
 | :---: | :---: | :---: | :---: |
 | 5V (High) input | Closed (Up) | 5V output | 5V output |
 | 0V (Low) input | Open (Down) | 0V output | 0V output |
+
+</center>
+
+
