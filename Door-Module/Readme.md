@@ -15,9 +15,8 @@ All provided files are in metric units (mm). The design is adapted to generic 30
 
 ### File List
 
-<center>
-
-| Door-Module Component | Production Amount | Material |
+<p align="center">
+  | Door-Module Component | Production Amount | Material |
 | :---: | :---: | :---: |
 | Arduino Holder | 1 piece | Acrylic glass 6mm, PLA or ABS |
 | Counterweight | 4 pieces | Acrylic glass 6mm, PLA or ABS |
@@ -27,8 +26,7 @@ All provided files are in metric units (mm). The design is adapted to generic 30
 | Mock Floor | 1 piece, optional | Acrylic glass 6mm, PLA or ABS |
 | Profile Stopper | 2 pieces | Acrylic glass 6mm, PLA or ABS |
 | Servo Lever | 1 piece | Acrylic glass 6mm, PLA or ABS |
-
-</center>
+</p>
 
 All files are available as .STEP (for 3D CAD), .DXF Files (scaling: 1pt equals 1mm for laser cutting), .STL (3D Object for Printing) and .SVG (Open Source Vector Graphic).
 
